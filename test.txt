@@ -1,2 +1,2 @@
 First Text in Git!i`:w filename.txt!!i
-The Second line is added in the remote repo.
+The second line has been added to the remote repo. This is amazing!!!!
